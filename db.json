@@ -4,12 +4,45 @@
 		"name": "Helsefagarbeiderfaget Bedrift",
 		"extId": "UDIR-HEA",
 		"source": "source1", 
-		"education": "education1",
+		"education": "education1", 
 		"category": {
 			"extId": "HNH",
 			"name": "Something",
 			"type": "comp_goal"
 		},
+
+		"sections": [
+		  {
+			"name": "Helsefremmende arbeid",
+			"extId": "HEA-01",
+			"learningGoals": [
+			  {
+				"name": "Mestring, helse og trivsel",
+				"extId": "HEA-01",
+				"text": "Kan foreslå og sette i verk tiltak som fremmer mestring, helse og trivsel, og som stimulerer til et aktivt liv",
+				"elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
+			  }
+			]
+		  },
+		  {
+			"name": "Kommunikasjon og samhandling",
+			"extId": "HEA-02",
+			"learningGoals": [
+			  {
+				"name": "Kommunisere og samhandle på tvers av tjenestene",
+				"extId": "HEA-14",
+				"text": "Kan kommunisere og samhandle på tvers av tjenestene for å oppnå helhet og sammenheng i tilbudet til pasienter og brukere",
+				"elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"name": "Helsefagarbeiderfaget Bedrift 2",
+		"extId": "UDIR-HEA",
+		"source": "source2", 
+		"education": "education2",
 
 		"sections": [
 		  {
