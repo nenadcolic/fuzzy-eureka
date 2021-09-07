@@ -4,12 +4,7 @@
 		"name": "Helsefagarbeiderfaget Bedrift",
 		"extId": "UDIR-HEA",
 		"source": "source1", 
-		"education": "education1", 
-		"category": {
-			"extId": "HNH",
-			"name": "Something",
-			"type": "comp_goal"
-		},
+		"education": "education1",
 
 		"sections": [
 		  {
