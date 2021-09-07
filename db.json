@@ -3,8 +3,8 @@
 	  {
 		"name": "Helsefagarbeiderfaget Bedrift",
 		"extId": "UDIR-HEA",
-		"sourceId": "source1", 
-		"courseId": "course1", 
+		"source": "source1", 
+		"education": "education1",
 		"category": {
 			"extId": "HNH",
 			"name": "Something",
